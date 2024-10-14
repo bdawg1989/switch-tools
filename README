@@ -1,0 +1,10 @@
+To build:
+
+In MSYS2 Terminal:
+
+```
+$ ./autogen.sh
+$ ./configure
+$ make
+$ sudo make install
+```
