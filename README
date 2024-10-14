@@ -4,7 +4,7 @@ In MSYS2 Terminal:
 
 ```
 $ ./autogen.sh
-$ ./configure
+$ ./configure --prefix=/c/devkitPro/tools
 $ make
 $ sudo make install
 ```
