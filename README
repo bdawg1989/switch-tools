@@ -6,5 +6,5 @@ In MSYS2 Terminal:
 $ ./autogen.sh
 $ ./configure --prefix=/c/devkitPro/tools
 $ make
-$ sudo make install
+$ make install
 ```
